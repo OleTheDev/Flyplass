@@ -1,0 +1,10 @@
+C:\Users\gunna\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Flyplass.exe
+C:\Users\gunna\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Flyplass.deps.json
+C:\Users\gunna\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Flyplass.runtimeconfig.json
+C:\Users\gunna\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Flyplass.runtimeconfig.dev.json
+C:\Users\gunna\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Flyplass.dll
+C:\Users\gunna\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Flyplass.pdb
+C:\Users\gunna\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Flyplass.AssemblyInfoInputs.cache
+C:\Users\gunna\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Flyplass.AssemblyInfo.cs
+C:\Users\gunna\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Flyplass.dll
+C:\Users\gunna\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Flyplass.pdb
